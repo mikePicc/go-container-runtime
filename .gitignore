@@ -1,0 +1,17 @@
+# Binaries for programs and plugins
+my-container
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with 'go test -c'
+*.test
+
+# Output of the go coverage tool, created by 'go test -cover'
+*.out
+
+# Go build cache
+cache/
+go/
